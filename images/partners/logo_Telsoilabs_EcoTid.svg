@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logotelsoftlabs.svg"
+   inkscape:export-filename="/home/dreyes/Documentos/logo/logotelsoftlabs.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath146">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="238.66116"
+         y="190.63528"
+         id="text150"
+         clip-path="none"><tspan
+           sodipodi:role="line"
+           id="tspan148"
+           x="238.66116"
+           y="190.63528"
+           style="fill:#000000;stroke-width:0.264583">TQV</tspan></text>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66271825"
+     inkscape:cx="561.32451"
+     inkscape:cy="402.13168"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.576px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#552200;fill-opacity:1;stroke:none;stroke-width:1.0644"
+       x="-14.813684"
+       y="209.39267"
+       id="text111"
+       transform="scale(0.71613394,1.3963868)"><tspan
+         sodipodi:role="line"
+         id="tspan109"
+         x="-14.813684"
+         y="209.39267"
+         style="stroke-width:1.0644;fill:#552200"> Telsoilabs EcoTid</tspan><tspan
+         sodipodi:role="line"
+         x="-14.813684"
+         y="262.61264"
+         style="stroke-width:1.0644;fill:#552200"
+         id="tspan1" /></text>
+    <g
+       id="g1"
+       transform="matrix(1.9407503,0,0,1.5347883,-121.95542,-81.416192)"
+       style="fill:#552200">
+      <rect
+         style="fill:#552200;stroke:#000000;stroke-width:0.237971"
+         id="rect32"
+         width="116.71213"
+         height="23.553734"
+         x="170.67882"
+         y="16.736492"
+         rx="12.247702"
+         transform="matrix(0.81992181,0.57247553,-0.84408484,0.53620965,0,0)"
+         clip-path="none" />
+      <rect
+         style="fill:#552200;stroke:#000000;stroke-width:0.237971"
+         id="rect32-3"
+         width="116.71213"
+         height="23.553734"
+         x="171.86502"
+         y="45.179314"
+         rx="12.247702"
+         transform="matrix(0.81992181,0.57247553,-0.84408484,0.53620965,0,0)" />
+      <rect
+         style="fill:#552200;stroke:#000000;stroke-width:0.237971"
+         id="rect32-6"
+         width="116.71213"
+         height="23.553734"
+         x="170.89288"
+         y="73.074463"
+         rx="12.247702"
+         transform="matrix(0.81992181,0.57247553,-0.84408484,0.53620965,0,0)" />
+    </g>
+  </g>
+</svg>
